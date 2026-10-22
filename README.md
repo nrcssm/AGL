@@ -27,6 +27,10 @@ Automatic start-up on Windows login
 Import and export a game library for backup
 
 📸 Screenshots
+![Dark mode](/relative/path/to/img.jpg?raw=true "Dark mode")
+![Light mode](/relative/path/to/img.jpg?raw=true "Light mode")
+![Add game](/relative/path/to/img.jpg?raw=true "Add game")
+![Settings](/relative/path/to/img.jpg?raw=true "Settings")
 
 Installation instructions
 
