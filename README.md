@@ -27,10 +27,10 @@ Automatic start-up on Windows login
 Import and export a game library for backup
 
 📸 Screenshots
-![Dark mode](/relative/path/to/img.jpg?raw=true "Dark mode")
-![Light mode](/relative/path/to/img.jpg?raw=true "Light mode")
-![Add game](/relative/path/to/img.jpg?raw=true "Add game")
-![Settings](/relative/path/to/img.jpg?raw=true "Settings")
+![Dark mode](https://github.com/nrcssm/AGL/blob/main/Dark%20mode.png?raw=true "Dark mode")
+![Light mode](https://github.com/nrcssm/AGL/blob/main/Light%20mode.png?raw=true "Light mode")
+![Add game](https://github.com/nrcssm/AGL/blob/main/Add%20game.png?raw=true "Add game")
+![Settings](https://github.com/nrcssm/AGL/blob/main/Settings.png?raw=true "Settings")
 
 Installation instructions
 
