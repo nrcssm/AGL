@@ -34,7 +34,7 @@ Import and export a game library for backup
 
 Installation instructions
 
-Download the archive with the program by link above.
+Download the archive with the program by link in Releases.
 Unzip the archive to any folder (no installation required).
 Run the AGL.exe executable file
 Click the add button and select any game ( .exe file).
