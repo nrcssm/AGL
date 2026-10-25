@@ -41,3 +41,10 @@ Click the add button and select any game ( .exe file).
 If you have ideas to improve the functionality or you found a bug - write in comments or in private posts.
 
 P.S. The program is being actively developed. I look forward to your feedback and constructive criticism!
+
+Support the Project
+If you find this project useful, you can support its development on Boosty. Your contribution helps cover maintenance costs, new features, and ongoing improvements.
+
+👉 Support us on Boosty: https://boosty.to/nrcssm
+
+Thank you for your support! ❤️
