@@ -45,6 +45,6 @@ P.S. The program is being actively developed. I look forward to your feedback an
 Support the Project
 If you find this project useful, you can support its development on Boosty. Your contribution helps cover maintenance costs, new features, and ongoing improvements.
 
-👉 Support us on Boosty: https://boosty.to/nrcssm
+👉 Support me on Boosty: https://boosty.to/nrcssm
 
 Thank you for your support! ❤️
